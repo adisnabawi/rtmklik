@@ -1,4 +1,4 @@
-# rtmklik
+# IPTV RTMKlik
 IPTV
 This configuration can be use to play RTM Klik TV.
 

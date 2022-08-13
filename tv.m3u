@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/BEV5nZH.png",TV2 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+#EXTINF:-1 tvg-id="OKEY.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",OKEY (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",Sukan RTM (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png",Berita RTM (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
